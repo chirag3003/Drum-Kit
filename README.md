@@ -4,7 +4,7 @@
 
 > beginner project for learning javascript
 
-### 🏠 [Homepage](https://apexweb.me/drum-kit)
+### 🏠 [Homepage](https://apexweb.me/Drum-Kit)
 
 ## Author
 
