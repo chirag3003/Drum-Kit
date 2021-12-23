@@ -4,11 +4,11 @@
 
 > beginner project for learning javascript
 
-### 🏠 [Homepage](https://apexweb.me/Drum-Kit)
+### 🏠 [Homepage](https://chirag3003.github.io/Drum-Kit)
 
 ## Author
 
-👤 **Apex Web ( Chirag Bhalotia )**
+👤 **Chirag Bhalotia**
 
 * Website: https://chirag.codes
 * Github: [@chirag3003](https://github.com/chirag3003)
